@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">cuando</string>
+    <string name="action_settings">Settings</string>
+    <string name="reminder_name_label">Remind me to</string>
+    <string name="reminder_description_label">Description</string>
+    <string name="reminder_type_label">Reminder Type</string>
+    <string name="optional">Optional</string>
+    <string name="reminder_completed_text">Completed</string>
+    <string name="reminder_type_none_label">Select a reminder type</string>
+    <string name="reminder_type_at_time_label">At</string>
+    <string name="reminder_type_before_arriving_label">before arriving at</string>
+    <string name="reminder_type_on_arrival_label">when I arrive at</string>
+    <string name="reminder_type_after_arrival_label">after I arrive at</string>
+    <string name="title_activity_cuando_location">Location</string>
+    <string name="location_search_hint">30 Easy St.</string>
+	<string name="notification_awarenessservice_ticker">Location awareness service notification</string>
+	<string name="notification_awenessservicestarted_title">Service started</string>
+	<string name="notification_awarenessservicestarted_text">The service was started successfully</string>
+</resources>
